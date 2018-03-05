@@ -1,0 +1,6 @@
+Veículos Utilizados
+
+ID	Câmbio		Dist. Pneus (m)		Alt. Motor (m)
+1	Automático		2,70		0.75
+2	Automático		2,57		0.90
+3	Manual			2,45		0.60

@@ -1,0 +1,8 @@
+Gravação de Áudio 
+Teste ID: 9
+Velocidade: 60 km/h
+Sentido: 180° -> 0°
+Quantidade de Veículos: 3
+Veículos ID (em ordem) : 1, 2, 3
+Intervalo de tempo ESTIMADO entre os veículos: 	9 s (entre veículos 1 e 2)
+						9 s (entre veículos 2 e 3)

@@ -1,0 +1,10 @@
+Gravação de Áudio 
+Teste ID: 7
+Velocidade: 60 km/h
+Sentido: 180° -> 0°
+Quantidade de Veículos: 2
+Veículos ID (em ordem) : 1, 2
+Intervalo de tempo ESTIMADO entre os veículos: 4 s
+
+* O teste ID=7 inicialmente seria feito com POUCO espaçamento entre os veículos mas durante a execução verificou-se um espapçamento maior do que o desejado. 
+Portanto o teste foi repetido e a gravação com os veículos a 60km/h pouco espaçados está no teste de áudio ID=8.

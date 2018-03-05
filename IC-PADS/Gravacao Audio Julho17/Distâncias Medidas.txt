@@ -1,0 +1,9 @@
+Distâncias (m)
+
+Microfones - Centro da pista:				4.3
+Microfones - Local estimado da passagem dos pneus: 	3.6
+Pneu - Pneu Veículo ID=1				2.70
+Pneu - Pneu Veículo ID=2				2.57
+Pneu - Pneu Veículo ID=3				2.45
+Chão - Centro do array de microfones:			1.26
+Microfone - Microfone:					0.2

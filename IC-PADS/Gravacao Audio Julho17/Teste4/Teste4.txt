@@ -1,0 +1,7 @@
+Gravação de Áudio 
+Teste ID: 4
+Velocidade: 40 km/h
+Sentido: 0° -> 180°
+Quantidade de Veículos: 2
+Veículos ID (em ordem) : 1, 2
+Intervalo de tempo ESTIMADO entre os veículos: 10 s

@@ -1,0 +1,63 @@
+Teste 1:
+Carro 1: t90 = 5.56 s
+Carro 2: t90 = 9.31 s
+Intervalo entre os carros: 3.75 s
+Distância entre os carros: 31.25 m
+
+Teste 2:
+Carro 1: t90 = 7.88 s
+Carro 2: t90 = 17.23 s
+Intervalo entre os carros: 9.35 s
+Distância entre os carros: 77.92 m
+
+Teste 3:
+Carro 1: t90 = 4.44 s
+Carro 2: t90 = 8.38 s
+Intervalo entre os carros: 3.94 s
+Distância entre os carros: 43.78 m
+
+Teste 4:
+Carro 1: t90 = 5.68 s
+Carro 2: t90 = 15.28 s
+Intervalo entre os carros: 9.59 s
+Distância entre os carros: 106.57 m
+
+Teste 5:
+Carro 1: t90 = 5.35 s
+Carro 2: t90 = 8.48 s
+Intervalo entre os carros: 3.13 s
+Distância entre os carros: 43.41 m
+
+Teste 6:
+Carro 1: t90 = 6.90 s
+Carro 2: t90 = 16.00 s
+Intervalo entre os carros: 9.10 s
+Distância entre os carros: 126.37 m
+
+Teste 7:
+
+Carro 1: t90 = 6.26 s
+Carro 2: t90 = 10.03 s
+Intervalo entre os carros 1 e 2: 3.76 s
+Distância entre os carros 1 e 2: 62.73 m
+
+Teste 8:
+Carro 1: t90 = 7.75 s
+Carro 2: t90 = 9.75 s
+Carro 3: t90 = 11.93 s
+Intervalo entre os carros 1 e 2: 2.00 s
+Distância entre os carros 1 e 2: 33.36 m
+Intervalo entre os carros 2 e 3: 2.18 s
+Distância entre os carros 2 e 3: 36.30 m
+
+Teste 9:
+Carro 1: t90 = 5.32 s
+Carro 2: t90 = 14.33 s
+Carro 3: t90 = 24.00 s
+Intervalo entre os carros 1 e 2: 9.02 s
+Distância entre os carros 1 e 2: 150.26 m
+Intervalo entre os carros 2 e 3: 9.67 s
+Distância entre os carros 2 e 3: 161.20 m
+
+Teste 10:
+Carro 1: t90 = 6.51 s

@@ -1,0 +1,22 @@
+Gravação de Áudio
+5 microfones *, **
+Data: 15/07/2017
+Local: Estacionamento do Centro de Tecnologia da UFRJ
+
+
+TESTE						Intervalo
+ID	Velocidade (km/h)	Qtd Veículos	entre Veículos
+1	30				2		Curto
+2	30				2		Longo
+3	40				2		Curto
+4	40				2		Longo
+5	50				2		Curto
+6	50				2		Longo
+7	60				2		Curto
+8	60				3		Curto
+9	60				3		Longo
+10	70				1		----
+
+
+* Microfones dispostos em formato de "cruz" como esquematizado em mics.png
+** Analisando os aúdios gravados foi verificado que o microfone ID=4 estava defeituoso, restando então os áudios gravados por 4 microfones.
