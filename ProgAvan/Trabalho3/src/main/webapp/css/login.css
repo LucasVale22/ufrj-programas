@@ -1,0 +1,38 @@
+
+body{
+    font-family: "Calibri", sans-serif; 
+    background-image: url("background.jpg");
+    text-align:center;
+    background-size: cover;
+}
+
+#Titulo{
+    
+}
+
+#labelTitulo{
+    font-size:28pt;
+    text-shadow: 3px 4px 5px #333333;
+}
+#backTitulo{
+    background-image: url("fundotitulo.png");
+    background-size:50px;
+}
+
+#labelApto{
+    font-size:20pt;
+}
+
+#apto{
+    font-size:14pt;
+    width:150px;
+    height: 25px;
+    text-align:center;
+    border-style: none;
+}
+
+#submit{
+    font-size:12pt;
+    width:100px;
+    background-color:#D3D3D3;
+}

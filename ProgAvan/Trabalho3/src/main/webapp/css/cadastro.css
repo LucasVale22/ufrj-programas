@@ -1,0 +1,66 @@
+
+body{
+    font-family: "Calibri", sans-serif; 
+    background-image: url("background.jpg");
+    text-align:center;
+    background-size: cover;
+}
+
+#labelTitulo{
+    font-size:28pt;
+    text-shadow: 3px 4px 5px #333333;
+}
+
+#backTitulo{
+    background-image: url("fundotitulo.png");
+    background-size:50px;
+}
+
+#divPrincipal{
+    margin-right:auto; 
+    margin-left:auto;
+    color:#333333;
+    font-size: 14pt;
+    width:40%;
+    min-height:300px;
+    background-color:#b9c9ff;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table{
+    width:100%;
+    font-size:0.7em;
+    color:gray;
+}
+table td{
+    width:33%;
+    text-align:right;
+}
+table td+td{
+    width:2%;
+}
+table td+td+td{
+    width:60%;
+}
+table td+td+td+td{
+    width:5%;
+}
+
+input[type=text]{
+    font-size:0.8em;
+    width:300px;
+    border: 2px solid #aabcfe;
+    border-radius: 4px;
+}
+
+.linkPadrao{
+    color:blue;
+    cursor:pointer;
+    font-size:0.7em;
+}
+
+.linkPadrao:hover{
+    text-decoration:underline;
+}
+

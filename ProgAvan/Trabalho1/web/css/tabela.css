@@ -1,0 +1,35 @@
+.tabela{
+    margin-right:auto; margin-left:auto;
+}
+.linTab{
+   font-family:calibri;
+   font-size:14px;
+   color:#333333;
+}
+
+.tg{
+    border-collapse:collapse;
+    border-spacing:0;
+    border-color:#aabcfe;
+    border:none;
+    
+    background-color:#b9c9ff;
+}
+
+.tg th{
+      font-family:calibri;
+      font-size:14px;
+      font-weight:normal;
+      padding:10px 5px;
+      border-style:solid;
+      border-width:0px;
+      overflow:hidden;
+      word-break:normal;
+      border-color:#483d8b;
+      color:#039;
+      background-color:#b9c9ff;
+}
+#icone1{
+    background-image: url("icone1.png");
+}
+

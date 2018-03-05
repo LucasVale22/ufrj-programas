@@ -1,0 +1,7 @@
+br\com\consumoagua\Controller\MedidasController.class
+br\com\consumoagua\bens\Medidas.class
+br\com\consumoagua\bens\Condomino.class
+br\com\consumoagua\jdbc\CondominoDAO.class
+br\com\consumoagua\jdbc\MedidasDAO.class
+br\com\consumoagua\Controller\CondominoController.class
+br\com\consumoagua\jdbc\Conexao.class
