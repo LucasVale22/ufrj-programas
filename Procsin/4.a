@@ -1,0 +1,4 @@
+Black = blackman(56); %cria janela de blackman
+blackFilter = fir1(55, [0.3 0.5], Black);
+[H, W] = freqz(blackFilter,1);
+freqz(blackFilter,1);
